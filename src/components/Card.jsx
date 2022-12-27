@@ -13,10 +13,6 @@ const Card = ({
   visibility,
   is_day,
   date_time,
-
-
-
-  
 }) => {
   return (
     <section className="card-Block">
